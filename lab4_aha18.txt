@@ -1,0 +1,11 @@
+OPS445 Lab Report - System Information for running ./CheckLab4.py
+=================================================================
+    User login name: aha18
+    Linux system name: aha18-LM
+    Python executable: /usr/bin/python3
+    Python version:  3.12.3 (main, Nov  6 2025, 13:44:16) [GCC 13.3.0]
+    VS Code version:  1.119.0 646
+    OS Platform: linux
+    Working Directory: /home/aha18/ops445/lab4
+    Start at: Mon Jun  1 17:29:34 2026
+=================================================================
